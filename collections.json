@@ -1,0 +1,150 @@
+[
+  {
+    "nombre": "Megafichas Liga 2003/04",
+    "cromos": ["Escudos Segunda División - Ciudad de Murcia"],
+    "portada": "imagesAlbumes/megafichas2003-04.png"
+  },
+  {
+    "nombre": "Las Fichas de la Liga 2004",
+    "cromos": [
+        "Escudo Ciudad de Murcia"
+    ],
+    "portada": "imagesAlbumes/fichasLiga2004.png"
+  },
+  {
+    "nombre": "Megacracks 2004/05",
+    "cromos": [
+      "Escudo Ciudad de Murcia"
+    ],
+    "portada": "imagesAlbumes/megacracks2004-05.png"
+  },
+  {
+    "nombre": "Las Fichas de la Liga 2005",
+    "cromos": [
+        "Escudo Ciudad de Murcia",
+        "Indice Ciudad de Murcia",
+        "Miki",
+        "Serrano",
+        "Ferier",
+        "C. Montoya",
+        "Timpani",
+        "Rivero",
+        "Falcón",
+        "Gibanel",
+        "Dani",
+        "Pablo",
+        "T. González",
+        "Aguilar",
+        "Cuevas",
+        "Güiza",
+        "Ubeda",
+        "Eto'o"
+    ],
+    "portada": "imagesAlbumes/fichasLiga2005.png"
+  },
+  {
+    "nombre": "Megacracks 2005/06",
+    "cromos": ["Escudos Segunda División - Ciudad de Murcia"],
+    "portada": "imagesAlbumes/megacracks2005-06.png"
+  },
+  {
+    "nombre": "Las Fichas de la Liga 2006",
+    "cromos": [
+        "Escudo Ciudad de Murcia",
+        "Indice Ciudad de Murcia",
+        "Jose Juan",
+        "Amaya",
+        "Cordoba",
+        "D. Alegre",
+        "R. Pérez",
+        "C. Montoya",
+        "Falcón",
+        "Gibanel",
+        "Kome",
+        "Luque",
+        "Mané",
+        "Rivero",
+        "R. Medina",
+        "D. Rodríguez",
+        "Piti",
+        "Henok Goitom",
+        "I. Espadas",
+        "Jaime",
+        "S. Torres"
+    ],
+    "portada": "imagesAlbumes/fichasLiga2006.png"
+  },
+  {
+    "nombre": "Megacracks 2006/07",
+    "cromos": [
+        "Escudo Ciudad de Murcia",
+        "Luque"
+    ],
+    "portada": "imagesAlbumes/megacracks2006-07.png"
+  },
+  {
+    "nombre": "Las Fichas de la Liga 2007",
+    "cromos": [
+        "Escudo Ciudad de Murcia",
+        "Indice Ciudad de Murcia",
+        "Jaime",
+        "Amaya",
+        "Angel",
+        "C. Diaz",
+        "Ayoze",
+        "Ceballos",
+        "Varela",
+        "Torrecilla",
+        "Falcón",
+        "Jonán",
+        "Gibanel",
+        "Rafita",
+        "Luque",
+        "Borja",
+        "Saizar",
+        "Henok Goitom",
+        "X. Jiménez"
+    ],
+    "portada": "imagesAlbumes/fichasLiga2007.png"
+  },
+  {
+    "nombre": "Liga Este 2007/08",
+    "cromos": [
+        "Escudo Granada 74"
+    ],
+    "portada": "imagesAlbumes/ligaeste2007-08.png"
+  },
+  {
+    "nombre": "Megacracks 2007/08",
+    "cromos": [
+        "Escudo Granada 74"
+    ],
+    "portada": "imagesAlbumes/megacracks2007-08.png"
+  },
+  {
+    "nombre": "Las Fichas de la Liga 2008",
+    "cromos": [
+        "Escudo Granada 74",
+        "Indice Granada 74",
+        "Jaime",
+        "C. Diaz",
+        "Assemoassa",
+        "Benja",
+        "Dani Frag.",
+        "Ruz",
+        "Torrecilla",
+        "Falcón",
+        "Juanlu",
+        "Luque",
+        "M. Crespi",
+        "Gibanel",
+        "Fagoaga",
+        "Aranda",
+        "Saizar",
+        "J. Guerra",
+        "Francisco",
+        "Jose Juan"
+    ],
+    "portada": "imagesAlbumes/fichasLiga2008.png"
+  }
+]

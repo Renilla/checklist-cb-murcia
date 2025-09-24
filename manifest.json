@@ -1,0 +1,16 @@
+{
+    "name": "Checklist CB Murcia",
+    "short_name": "Checklist CB Murcia",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#ffffff",
+    "icons": [
+      {
+        "src": "imagesCromos/icono.jpg",
+        "sizes": "180x180",
+        "type": "image/jpeg"
+      }
+    ]
+  }
+  
