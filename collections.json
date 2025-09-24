@@ -1,150 +1,120 @@
 [
   {
-    "nombre": "Megafichas Liga 2003/04",
-    "cromos": ["Escudos Segunda División - Ciudad de Murcia"],
-    "portada": "imagesAlbumes/megafichas2003-04.png"
-  },
-  {
-    "nombre": "Las Fichas de la Liga 2004",
+    "nombre": "Panini Basket 91 ACB",
     "cromos": [
-        "Escudo Ciudad de Murcia"
+        "Escudo Juver Murcia",
+        "Jordi Soler",
+        "Xabier Jon Davalillo",
+        "Ralph McPherson",
+        "Julio Torres",
+        "Tom Gneitling"
     ],
-    "portada": "imagesAlbumes/fichasLiga2004.png"
+    "portada": "imagesAlbumes/paniniBasket91.png"
   },
   {
-    "nombre": "Megacracks 2004/05",
+    "nombre": "Las Fichas de la ACB 95",
     "cromos": [
-      "Escudo Ciudad de Murcia"
+        "Escudo CB Murcia",
+        "Oleart",
+        "Anderson",
+        "Roger",
+        "Piñero",
+        "Moya Pérez",
+        "García Pérez",
+        "Pedrera",
+        "Martín"
     ],
-    "portada": "imagesAlbumes/megacracks2004-05.png"
+    "portada": "imagesAlbumes/fichasACB95.png"
   },
   {
-    "nombre": "Las Fichas de la Liga 2005",
+    "nombre": "ACB 2008/09",
     "cromos": [
-        "Escudo Ciudad de Murcia",
-        "Indice Ciudad de Murcia",
-        "Miki",
-        "Serrano",
-        "Ferier",
-        "C. Montoya",
-        "Timpani",
-        "Rivero",
-        "Falcón",
-        "Gibanel",
-        "Dani",
-        "Pablo",
-        "T. González",
-        "Aguilar",
-        "Cuevas",
-        "Güiza",
-        "Ubeda",
-        "Eto'o"
+      "Escudo CB Murcia",
+      "Plantilla CB Murcia",
+      "Manuel Hussein",
+      "Young",
+      "Marconato",
+      "Thomas",
+      "Bogdanovic",
+      "Dean",
+      "Robles",
+      "Opacak",
+      "Oscar García",
+      "Fajardo",
+      "Moss",
+      "Slanina",
+      "Barnes",
+      "Jugon",
+      "Show",
+      "Momento mágico"
     ],
-    "portada": "imagesAlbumes/fichasLiga2005.png"
+    "portada": "imagesAlbumes/acb2008-09.png"
   },
   {
-    "nombre": "Megacracks 2005/06",
-    "cromos": ["Escudos Segunda División - Ciudad de Murcia"],
-    "portada": "imagesAlbumes/megacracks2005-06.png"
-  },
-  {
-    "nombre": "Las Fichas de la Liga 2006",
+    "nombre": "ACB 2009/10",
     "cromos": [
-        "Escudo Ciudad de Murcia",
-        "Indice Ciudad de Murcia",
-        "Jose Juan",
-        "Amaya",
-        "Cordoba",
-        "D. Alegre",
-        "R. Pérez",
-        "C. Montoya",
-        "Falcón",
-        "Gibanel",
-        "Kome",
-        "Luque",
-        "Mané",
-        "Rivero",
-        "R. Medina",
-        "D. Rodríguez",
-        "Piti",
-        "Henok Goitom",
-        "I. Espadas",
-        "Jaime",
-        "S. Torres"
+        "Escudo CB Murcia",
+        "Plantilla CB Murcia",
+        "Edu Torres",
+        "Vujanic",
+        "Marco",
+        "Delininkaitis",
+        "Robles",
+        "X. Sánchez",
+        "Scepanovic",
+        "Powell",
+        "García",
+        "Moss",
+        "Moncasi",
+        "Prestes",
+        "Faverani",
+        "Jugon",
+        "Show",
+        "Recordman"
     ],
-    "portada": "imagesAlbumes/fichasLiga2006.png"
+    "portada": "imagesAlbumes/acb2009-10.png"
   },
   {
-    "nombre": "Megacracks 2006/07",
+    "nombre": "UCAM Murcia 'The Legacy'",
     "cromos": [
-        "Escudo Ciudad de Murcia",
-        "Luque"
+        "Entrenador - Sito Alonso",
+        "Dylan Ennis",
+        "Troy Coupain",
+        "Ludvig Hakanson",
+        "Jonah Radebaugh",
+        "Arturs Kurucs",
+        "Will Falk",
+        "Howard Sant-Roos",
+        "Rodions Kurucs",
+        "David Jelinek",
+        "Dustin Sleva",
+        "Simon Birgander",
+        "Marko Todorovic",
+        "Moussa Diagne",
+        "Fabian Flores",
+        "Yannis Morin",
+        "Sadiel Rojas",
+        "Nemanja Radovic"
     ],
-    "portada": "imagesAlbumes/megacracks2006-07.png"
+    "portada": "imagesAlbumes/theLegacy2023-24.png"
   },
   {
-    "nombre": "Las Fichas de la Liga 2007",
+    "nombre": "UCAM Murcia 2024/25",
     "cromos": [
-        "Escudo Ciudad de Murcia",
-        "Indice Ciudad de Murcia",
-        "Jaime",
-        "Amaya",
-        "Angel",
-        "C. Diaz",
-        "Ayoze",
-        "Ceballos",
-        "Varela",
-        "Torrecilla",
-        "Falcón",
-        "Jonán",
-        "Gibanel",
-        "Rafita",
-        "Luque",
-        "Borja",
-        "Saizar",
-        "Henok Goitom",
-        "X. Jiménez"
+        "Entrenador - Sito Alonso",
+        "Rodions Kurucs",
+        "Kaiser Gates",
+        "Dani García",
+        "Howard Sant-Roos",
+        "Nemanja Radovic",
+        "Jonah Radebaugh",
+        "Moussa Diagne",
+        "Ludvig Hakanson",
+        "DJ Stephens",
+        "Dylan Ennis",
+        "Simon Birgander",
+        "Kostas Antetokounmpo"
     ],
-    "portada": "imagesAlbumes/fichasLiga2007.png"
-  },
-  {
-    "nombre": "Liga Este 2007/08",
-    "cromos": [
-        "Escudo Granada 74"
-    ],
-    "portada": "imagesAlbumes/ligaeste2007-08.png"
-  },
-  {
-    "nombre": "Megacracks 2007/08",
-    "cromos": [
-        "Escudo Granada 74"
-    ],
-    "portada": "imagesAlbumes/megacracks2007-08.png"
-  },
-  {
-    "nombre": "Las Fichas de la Liga 2008",
-    "cromos": [
-        "Escudo Granada 74",
-        "Indice Granada 74",
-        "Jaime",
-        "C. Diaz",
-        "Assemoassa",
-        "Benja",
-        "Dani Frag.",
-        "Ruz",
-        "Torrecilla",
-        "Falcón",
-        "Juanlu",
-        "Luque",
-        "M. Crespi",
-        "Gibanel",
-        "Fagoaga",
-        "Aranda",
-        "Saizar",
-        "J. Guerra",
-        "Francisco",
-        "Jose Juan"
-    ],
-    "portada": "imagesAlbumes/fichasLiga2008.png"
+    "portada": "imagesAlbumes/ucamMurcia24-25.png"
   }
 ]
