@@ -17,6 +17,8 @@
   --border-color: #C6C6C8;
   --murcia-red: #800000;
   --murcia-red-darker: #4b0000;
+  --ucam-blue: #00027e;
+  --ucam-yellow: #ffd000;
   --shadow-light: rgba(0, 0, 0, 0.1);
   --shadow-medium: rgba(0, 0, 0, 0.15);
   
@@ -340,7 +342,7 @@ header h1 {
 }
 
 .gradient-title {
-  background: linear-gradient(135deg, var(--murcia-red) 0%, #414141 50%, var(--murcia-red) 100%);
+  background: linear-gradient(135deg, var(--murcia-red) 0%, var(--ucam-blue) 50%, var(--ucam-yellow) 100%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   background-clip: text;

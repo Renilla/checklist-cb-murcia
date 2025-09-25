@@ -4,17 +4,12 @@ let collections = [];
 
 // Mapeo de atracciones a nombres de logros
 const achievementMapping = {
-    "Megafichas Liga 2003/04": "Megafichas Liga 2003/04",
-    "Las Fichas de la Liga 2004": "Las Fichas de la Liga 2004",
-    "Megacracks 2004/05": "Megacracks 2004/05",
-    "Las Fichas de la Liga 2005": "Las Fichas de la Liga 2005",
-    "Megacracks 2005/06": "Megacracks 2005/06",
-    "Las Fichas de la Liga 2006": "Las Fichas de la Liga 2006",
-    "Megacracks 2006/07": "Megacracks 2006/07",
-    "Las Fichas de la Liga 2007": "Las Fichas de la Liga 2007",
-    "Liga Este 2007/08": "Liga Este 2007/08",
-    "Megacracks 2007/08": "Megacracks 2007/08",
-    "Las Fichas de la Liga 2008": "Las Fichas de la Liga 2008"
+    "Panini Basket 91 ACB": "Panini Basket 91 ACB",
+    "Las Fichas de la ACB 95": "Las Fichas de la ACB 95",
+    "ACB 2008/09": "ACB 2008/09",
+    "ACB 2009/10": "ACB 2009/10",
+    "UCAM Murcia 'The Legacy'": "UCAM Murcia 'The Legacy'",
+    "UCAM Murcia 2024/25": "UCAM Murcia 2024/25"
 };
 
 window.addEventListener('DOMContentLoaded', async () => {
