@@ -1,4 +1,4 @@
-# Checklist de Cromos del Ciudad de Murcia
+# Checklist de Cromos del CB Murcia
 
 ## Cambios Recientes - Separación del Login
 
@@ -75,7 +75,7 @@ Se ha implementado la separación del formulario de login en un archivo HTML ind
 ### Estructura de Archivos
 
 ```
-peroleta_to_PA/
+checklist_CBMurcia/
 ├── index.html          # Página principal (protegida)
 ├── login.html          # Formulario de login
 ├── registro.html       # Formulario de registro
@@ -83,7 +83,7 @@ peroleta_to_PA/
 ├── script.js           # Lógica principal
 ├── logros.js           # Lógica de logros
 ├── styles.css          # Estilos CSS
-├── attractions.json    # Datos de atracciones
+├── collections.json    # Datos de atracciones
 ├── .htaccess          # Configuración de servidor
 └── README.md          # Documentación
 ```
