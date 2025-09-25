@@ -64,6 +64,23 @@ body {
   overflow-x: hidden;
 }
 
+body::before {
+  content: "";
+  position: fixed;          /* Para que ocupe toda la pantalla */
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-image: url('imagesCromos/estadio.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  filter: blur(1.5px);        /* Nivel de difuminado */
+  opacity: 0.75;
+  transform: scale(1.1);
+  z-index: -1;              /* Detrás de todo el contenido */
+}
+
 .container {
   min-height: 100vh;
   display: flex;
