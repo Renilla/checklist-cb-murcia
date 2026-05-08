@@ -9,7 +9,9 @@ const achievementMapping = {
     "ACB 2008/09": "ACB 2008/09",
     "ACB 2009/10": "ACB 2009/10",
     "UCAM Murcia 'The Legacy'": "UCAM Murcia 'The Legacy'",
-    "UCAM Murcia 2024/25": "UCAM Murcia 2024/25"
+    "UCAM Murcia 2024/25": "UCAM Murcia 2024/25",
+    "Mythos Basketball Champions League 24/25" : "Mythos Basketball Champions League 24/25",
+    "UCAM Murcia 2025/26" : "UCAM Murcia 2025/26"
 };
 
 window.addEventListener('DOMContentLoaded', async () => {

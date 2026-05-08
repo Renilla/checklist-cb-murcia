@@ -116,5 +116,51 @@
         "Kostas Antetokounmpo"
     ],
     "portada": "imagesAlbumes/ucamMurcia24-25.png"
+  },
+  {
+    "nombre": "Mythos Basketball Champions League 24/25",
+    "cromos":[
+        "Rodions Kurucs",
+        "Dani García",
+        "Howard Sant-Roos",
+        "Troy Coupain",
+        "Nemanja Radovic",
+        "Jonah Radebaugh",
+        "Marko Todorovic",
+        "Vladimir Brodziansky",
+        "Moussa Diagne",
+        "Ludvig Hakanson",
+        "Arturs Kurucs",
+        "Dylan Ennis",
+        "Simon Birgander",
+        "Veterans Dylan Ennis",
+        "Veterans Howard Sant-Roos",
+        "X Factor Jonah Radebaugh",
+        "Offensive Sparks Dylan Ennis",
+        "Offensive Sparks Troy Caupain"
+    ],
+    "portada": "imagesAlbumes/bcl24-25.png"
+  },
+  {
+    "nombre": "UCAM Murcia 2025/26",
+    "cromos":[
+        "Devontae Cacok",
+        "Michael Forrest",
+        "Sander Raieste",
+        "Kaiser Gates",  
+        "David Dejulius",
+        "Dani García",
+        "Howard Sant-Roos",
+        "Jonah Radebaugh",
+        "Will Falk",
+        "Emmanuel Cate",
+        "Rubén López de la Torre",
+        "Moussa Diagne",
+        "Kelan Martin",
+        "Dylan Ennis",
+        "Jaylen Hands",
+        "Toni Nakic"
+    ],
+    "portada": "imagesAlbumes/ucamMurcia25-26.png"
   }
 ]
